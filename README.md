@@ -12,7 +12,7 @@ This is a simple yet interactive implementation of the classic **Tic Tac Toe** g
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/manishsshaw/Tic-Tac-Toe-Game.git
+   git clone  https://manishsshaw.github.io/Tic-Tac-Toe/
    ```
 2. Navigate to the project directory:
    ```bash
@@ -20,7 +20,7 @@ This is a simple yet interactive implementation of the classic **Tic Tac Toe** g
    ```
 3. Open `index.html` in your browser to start playing.
 
-Visit the website here: [Tic Tac Toe](https://manishsshaw.github.io/Tic-Tac-Toe-Game/)
+Visit the website here: [Tic Tac Toe]( https://manishsshaw.github.io/Tic-Tac-Toe/)
 
 > **Note**: The Sign-in/Sign-up page is designed to run on `localhost` and may not work properly in this online version. For full functionality, clone the repository and run it locally on your system.
 
